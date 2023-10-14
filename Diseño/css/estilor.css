@@ -121,12 +121,3 @@ footer {
     margin-bottom: 30px;
 
 }
-.marker{
-    
-    background-image: url(/img/bici.png);
-    background-size: cover;
-    width: 67px;
-    height: 40px;
-    cursor: pointer;
-
-}
